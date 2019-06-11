@@ -1,6 +1,6 @@
 # Pre-requisites 
 
-The idea of this page is to create a road-map for beginners. We all have very differnt backgrounds - there are beginners and there are experienced practicioners. It would be great if we can 
+The idea of this page is to create a road-map for beginners. We all have very different backgrounds - there are beginners and there are experienced practitioners. It would be great if we can 
 create a structured curriculum for our field. 
 
 **One constraint**, though [**IMPORTANT**]: **DO NOT add redundant resources**. 
