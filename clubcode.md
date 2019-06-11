@@ -33,3 +33,6 @@ it's highly recommended to have maths/CS background! I hope that later we will u
 2. All the discussions will be happening in #general channel on Slack with keyword papers_dclub, so that we can find them easily
 4. The paper for the reading is selected by anonymous voting via surveymonkey (democracy! :) ).
 5. You can join/leave at any point, but please be consistent!
+6. Paper proposals can be added by any member!
+7. It's ok if you don't implement - you can still benefit from analysing existing implementations!
+8. Any help is appreciated. 
