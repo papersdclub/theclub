@@ -1,5 +1,10 @@
 # Club News
 
+## Pinned: 
+**Deadline: 23:59, June, 17th, 2019 (all timezones)**
+
+**Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**
+
 ## June, 11, 2019
 
 We have created an organisation for the club - [https://github.com/papersdclub](https://github.com/papersdclub)! This will contain implementations as well as organisational notes, reading lists and other
@@ -7,7 +12,7 @@ useful things. If you haven't done it already - request to join. Alternatively, 
 
 ## June, 10, 2019
 
-We've asked for the estimates for the time needed to complete reading. Most of of the club members are confident they will be able to complete reading in one week. Some respondents estimated their readint time to be 2 weeks. Don't worry, guys, we'll wait for you! :) 
+We've asked for the estimates for the time needed to complete reading. Most of of the club members are confident they will be able to complete reading in one week. Some respondents estimated their reading time to be 2 weeks. Don't worry, guys, we'll wait for you! :) 
 
 ## June, 8, 2019 
 
