@@ -11,6 +11,11 @@
 
 <h2>Courses</h2>
 
+- [Elements of AI](https://course.elementsofai.com/) Course for beginners to understand the basic logic. Has a completion certificate.
 - [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html). Free Berkeley Course, includes lectures and assignments. 
+
+<h2>Videos</h2>
+
+-[Linear Algebra explained graphically](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2&t=0s) Set of videos explaining linear algebra differently (using visual demonstration)
 
 
