@@ -9,7 +9,7 @@
 
 The deadline for the reading is tomorrow and I hope most of you will have completed it by that time. But if not - it's still okay (it's soft deadline). There are two more activities we can perform in addition to discussion, which are: 
 1. Paper summary. It would be good if somone can write a summary.
-2. Poll-quiz on surveymonkey that will help us to understand what was the hardest 
+2. Poll-quiz on surveymonkey that will help us to understand what was the hardest part of the paper. 
 
 PS. Sorry for not updating for a few days. My life has just changed completely. For good. I was too happy. :) 
 
