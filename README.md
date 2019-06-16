@@ -1,3 +1,5 @@
+[Club Policy](https://github.com/papersdclub/theclub/blob/master/clubcode.md) | [Resources](https://github.com/papersdclub/theclub/blob/master/resources.md) 
+
 # Club News
 
 ## Pinned: 
