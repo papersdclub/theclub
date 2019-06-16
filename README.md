@@ -3,7 +3,8 @@
 ## Pinned: 
 **Deadline: 23:59, June, 17th, 2019 (all timezones)**
 
-**Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**
+**Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
+**Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
 
 ## June, 16, 2019
 
