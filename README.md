@@ -1,4 +1,5 @@
-[Club Policy](https://github.com/papersdclub/theclub/blob/master/clubcode.md) | [Resources](https://github.com/papersdclub/theclub/blob/master/resources.md) | [Important Links](https://github.com/papersdclub/theclub/blob/master/important_links.md)
+[Club Policy](https://github.com/papersdclub/theclub/blob/master/clubcode.md) | [Resources](https://github.com/papersdclub/theclub/blob/master/resources.md) | [Important Links](https://github.com/papersdclub/theclub/blob/master/important_links.md) |
+[Surveys and Quizzes](https://github.com/papersdclub/theclub/blob/master/surveys_and_quizzes.md)
 
 # Club News
 
