@@ -5,6 +5,16 @@
 
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**
 
+## June, 16, 2019
+
+The deadline for the reading is tomorrow and I hope most of you will have completed it by that time. But if not - it's still okay (it's soft deadline). There are two more activities we can perform in addition to discussion, which are: 
+1. Paper summary. It would be good if somone can write a summary.
+2. Poll-quiz on surveymonkey that will help us to understand what was the hardest 
+
+PS. Sorry for not updating for a few days. My life has just changed completely. For good. I was too happy. :) 
+
+-- Cheers, Ana
+
 ## June, 12, 2019
 
 Marce (Slack: Marce) suggested that we use ReviewNB in our implementations. In short: it allows to review changes (diff) in notebooks in a human-readable way (not JSON diffs!), which is quite cool. I have already installed this plugin for our organisation, and Marce will come up with more info/tutorials soon! :)
