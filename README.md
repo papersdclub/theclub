@@ -25,6 +25,8 @@ Important things about this quiz:
 
 I will publish the overall stats after all deadlines and maybe some intermediate results if I have enough data. Again - these are aggregate stats, no individual results are seen to anyone. But please avoid taking the quiz without reading the paper (or at least skimming through it).
 
+Also, after you complete it, please take a survey so that we know how to proceed further: https://www.surveymonkey.com/r/RPTKD9L
+
 -- Cheers, Ana 
 
 ## June, 16, 2019
