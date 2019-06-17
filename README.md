@@ -12,6 +12,21 @@
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
 
+## June, 17, 2019
+
+And our first quiz is up and running! 
+The link: [**QUIZ**](https://www.surveymonkey.com/r/RV3SDRC)
+
+**It has been tested for sanity by two of our dear members: Dharmendra and Marce. Thank you, guys!** 
+
+Important things about this quiz:  
+1. I will not see your individual answers, only the overall stats, so feel free to make mistakes. :)
+2. The quiz covers general concepts, not any specific parts of derivations. It should be accessible for all members!  
+
+I will publish the overall stats after all deadlines and maybe some intermediate results if I have enough data. Again - these are aggregate stats, no individual results are seen to anyone. But please avoid taking the quiz without reading the paper (or at least skimming through it).
+
+-- Cheers, Ana 
+
 ## June, 16, 2019
 
 ### Update 3
