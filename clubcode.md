@@ -29,9 +29,9 @@ it's highly recommended to have maths/CS background! I hope that later we will u
 ## The rules 
 
 0. This code is written by club members and any member has the right to change the police provided he makes a note on this update and explaines the reason in the commit
-1. All members can add/update/delete information (we all assume sanity of all member and trust each other :) )
-2. All the discussions will be happening in #general channel on Slack with keyword papers_dclub, so that we can find them easily
-4. The paper for the reading is selected by anonymous voting via surveymonkey (democracy! :) ).
+1. All members can add/update/delete information (we all assume sanity of all member and trust each other :blush:)
+2. All the discussions will be happening in **#general** channel on Slack with keyword **papers_dclub**, so that we can find them easily
+4. The paper for the reading is selected by anonymous voting via surveymonkey (democracy! :blush:).
 5. You can join/leave at any point, but please be consistent!
 6. Paper proposals can be added by any member (add directly to [GoogleDoc](https://docs.google.com/spreadsheets/d/1w5gMKcwRyFKW_3JVB6kEZ6uVT_fHtrrDHxCy5kU0MV8/edit#gid=1091439268) - Papers Proposals tab)!
 7. It's ok if you don't implement - you can still benefit from analysing existing implementations!
