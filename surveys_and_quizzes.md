@@ -7,4 +7,5 @@ https://www.surveymonkey.com/r/RPTKD9L
 
 ## Quizzes
 
-TBA
+Quiz 1 for the paper on PCA:
+https://www.surveymonkey.com/r/RV3SDRC
