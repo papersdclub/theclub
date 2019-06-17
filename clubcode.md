@@ -9,6 +9,12 @@ Our goal is to learn to read research papers. We're all AI/ML enthusiasts, who w
 This discussion club is for beginners in research. Hence, you don't need any experience in reading papers. That said, 
 it's highly recommended to have maths/CS background! I hope that later we will update this repository with lists of recommended courses/books and topics one must know. 
 
+## How do I join? 
+- Please add yourself here: [Members List](https://docs.google.com/spreadsheets/d/1w5gMKcwRyFKW_3JVB6kEZ6uVT_fHtrrDHxCy5kU0MV8/edit#gid=0). Note: If you're not a part of Secure and Private AI scholarship challenge, you can simply skip Slack column
+- Add a link to your github page, so that we can add you to this github organisation  
+- Accept invitation to this github organisation 
+- Watch the updates! :)
+
 ## How does it work? 
 (draft) 
 
