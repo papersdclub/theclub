@@ -23,10 +23,11 @@ it's highly recommended to have maths/CS background! I hope that later we will u
   - Step 1. We select a paper from our pool of proposals, using SurveyMonkey
   - Step 2. We estimate a deadline when all the member can complete the reading (SurveyMonkey)
   - Step 3. We read the paper 
+  - Step 4. Optional. We make (guess, that's a work for me ~Ana) and take a quiz :) 
 2. Phase 2:
-  - Step 1: We write a summary of the paper 
+  - Step 1: Optional. We write a summary of the paper 
   - Step 2: We discuss the hard parts 
-  - Step 3: We decided if we want to implement it (SurveyMonkey)
+  - Step 3: We decide if we want to implement it (SurveyMonkey)
 3. Phase 3 (optional)
   - Implement 
 
