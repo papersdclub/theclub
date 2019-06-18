@@ -1,3 +1,4 @@
+[How do I join?](https://github.com/papersdclub/theclub/blob/master/clubcode.md#how-do-i-join)
 [Club Policy](https://github.com/papersdclub/theclub/blob/master/clubcode.md) | [Resources](https://github.com/papersdclub/theclub/blob/master/resources.md) | [Important Links](https://github.com/papersdclub/theclub/blob/master/important_links.md) |
 [Surveys and Quizzes](https://github.com/papersdclub/theclub/blob/master/surveys_and_quizzes.md)
 
