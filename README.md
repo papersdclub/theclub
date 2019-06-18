@@ -12,13 +12,22 @@
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
 
+
 ## June, 18, 2019
+
+### Update 2 
+
+There are 42 (forty two) members now (as per Google Doc) and it's getting hard to manage it all. Hence, I asked **Dharmendra** (@Dharmendra Choudhary) and **Marce** (@Marce) for help. They will help with posting the updates and managing other important issues. They are already doing that on Slack! But there are more great things to come! ;)
+
+Also, I was told that a lot of members were struggling with the math part. Initially, I planned the club for those with maths and CS background, but eventually more and more people got interested, so this requirement was kind of removed. What's done is done and everyone is welcome! However, there are some ideas on how to adress this issue. Look for updates!
+
+### Update 1
 
 The first deadline has passed! Only a few people were able to complete the paper and the quiz by the deadline. Also, based on data, I suspect that some of them tried the quiz before completed the paper - otherwise, I can't explain the answers selected for some of the questions. :) I have initiated discussion in the #general channel, so you can join or start your own - just make sure to prepend it with the keyword **papers_dclub**!
 
 ![Intermediate results](https://github.com/papersdclub/theclub/blob/master/images/results_1.jpeg)
 
-
+-- Cheers, Ana
 
 ## June, 17, 2019
 
