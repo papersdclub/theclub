@@ -12,6 +12,10 @@
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
 
+## June, 18, 2019
+
+The first deadline has passed! Only a few people were able to complete the paper and the quiz by the deadline. Also, based on data, I suspect that some of them tried the quiz before completed the paper - otherwise, I can't explain the answers selected for some of the questions. :) I have initiated discussion in the #general channel, so you can join or start your own - just make sure to prepend it with the keyword **papers_dclub**!
+
 ## June, 17, 2019
 
 And our first quiz is up and running! 
