@@ -16,6 +16,10 @@
 
 The first deadline has passed! Only a few people were able to complete the paper and the quiz by the deadline. Also, based on data, I suspect that some of them tried the quiz before completed the paper - otherwise, I can't explain the answers selected for some of the questions. :) I have initiated discussion in the #general channel, so you can join or start your own - just make sure to prepend it with the keyword **papers_dclub**!
 
+![Intermediate results](https://github.com/papersdclub/theclub/blob/master/images/results_1.jpeg)
+
+
+
 ## June, 17, 2019
 
 And our first quiz is up and running! 
