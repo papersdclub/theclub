@@ -11,3 +11,7 @@ all the necessary topics. Also, one can always google to find another source. Th
 is to work out a structured curriculum, not to gather all possible resources. There is a resources page for that. 
 That said: please leave this paragraph at the top of the file and feel free to work on the curriculum! :) 
 It's okay to replace the resource if you're confident your resource is better. 
+
+# Linear Algebra 
+
+[Linear Algebra at KhanAcademy](https://www.khanacademy.org/math/linear-algebra)
