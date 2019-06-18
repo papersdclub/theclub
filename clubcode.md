@@ -13,7 +13,9 @@ it's highly recommended to have maths/CS background! I hope that later we will u
 - Please add yourself here: [Members List](https://docs.google.com/spreadsheets/d/1w5gMKcwRyFKW_3JVB6kEZ6uVT_fHtrrDHxCy5kU0MV8/edit#gid=0). Note: If you're not a part of Secure and Private AI scholarship challenge, you can simply skip Slack column
 - Add a link to your github page, so that we can add you to this github organisation  
 - Accept invitation to this github organisation 
-- Watch the updates! :)
+- Watch the updates: 
+    - on Slack (with **papers_dclub** keyword)! :)
+    - on Github (more consistent and they don't disappear!)
 
 ## How does it work? 
 (draft) 
