@@ -13,6 +13,17 @@
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
 
+## June, 19, 2019
+
+We have a lot of updates news today! 
+
+**First**, there is channel now on Challenge Course Slack. (those who are not a part of the challenge course, ignore the channel part).
+
+**Second**, detailed answers to the quiz will be published tomorrow! 
+
+**Third**, there is a repo now for our first paper - feel free to add your implementations (or links to your implementations) there. Please read the [implementation guidelines](https://github.com/papersdclub/theclub/blob/master/implementation_guidelines.md) first. And there is already one implementation by @shivu!
+
+**And finally** Tomorrow we will start the new round of voting for the next paper! Time to move on from PCA! Add your proposals to Paper Proposals sheet [here](https://docs.google.com/spreadsheets/d/1w5gMKcwRyFKW_3JVB6kEZ6uVT_fHtrrDHxCy5kU0MV8/edit#gid=1091439268)
 
 ## June, 18, 2019
 
