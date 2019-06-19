@@ -6,7 +6,7 @@
 # Club News
 
 ## Pinned: 
-**Soft Deadline (paper): 23:59, June, 17th, 2019 (all timezones)**   
+~~**Soft Deadline (paper): 23:59, June, 17th, 2019 (all timezones)**~~   
 **Soft Deadline (quiz): 23:59, June, 19th, 2019 (all timezones)**  
 **Hard Deadline (paper): 23:59, June, 19th, 2019 (all timezones)**  
 **Hard Deadline (quiz): 23:59, June, 21st, 2019 (all timezones)**  
