@@ -26,6 +26,8 @@ We have a lot of updates news today!
 
 **And finally** Tomorrow we will start the new round of voting for the next paper! Time to move on from PCA! Add your proposals to Paper Proposals sheet [here](https://docs.google.com/spreadsheets/d/1w5gMKcwRyFKW_3JVB6kEZ6uVT_fHtrrDHxCy5kU0MV8/edit#gid=1091439268)
 
+-- Cheers, Ana
+
 ## June, 18, 2019
 
 ### Update 2 
