@@ -1,5 +1,9 @@
 <h1>Great Resources</h2>
 
+<h2>Important Articles</h2>
+
+- [How to read a reasearch paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+
 <h2> Sites and blogs</h2> 
 
 - [Papers with code](https://paperswithcode.com/). Awesome resource that contains links to original papers as well as their implementation and leaderbords
