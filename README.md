@@ -14,6 +14,7 @@
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
 
+**[Post-paper survey](https://www.surveymonkey.com/r/P6RKHDD)** (to complete after reading the paper, completing the quiz): 
 ## June, 20, 2019
 
 ### Update 2
