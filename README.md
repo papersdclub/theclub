@@ -7,12 +7,27 @@
 
 ## Pinned: 
 ~~**Soft Deadline (paper): 23:59, June, 17th, 2019 (all timezones)**~~   
-**Soft Deadline (quiz): 23:59, June, 19th, 2019 (all timezones)**  
-**Hard Deadline (paper): 23:59, June, 19th, 2019 (all timezones)**  
-**Hard Deadline (quiz): 23:59, June, 21st, 2019 (all timezones)**  
+~~**Soft Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 19th, 2019 (all timezones)**~~  
+~~**Hard Deadline (paper): 23:59, June, 19th, 2019 (all timezones)**~~  
+**Hard Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 21st, 2019 (all timezones)**  
 
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
+
+## June, 20, 2019
+
+### Update 2
+
+As promised, the quiz solutions are out! Please do not read before taking the quiz. It's important to think about the question before knowing the answer. ;)
+
+[Solutions](https://github.com/papersdclub/a_tutorial_on_pca/blob/master/quiz_solutions.md)
+
+### Update 1
+The hard deadline for the paper has passed and the hard deadline for the quiz is tomorrow. What it means is that we will be moving to the next stage. It's time to select another paper and time to discuss what we've learnt. Also, it would be great if some of you will ry implementaton (see [implementation guidelines](https://github.com/papersdclub/theclub/blob/master/implementation_guidelines.md)). 
+
+Don't forget to vote, when the survey for the next paper is out, so that you don't ask me "Why are we reading this?" You know what I want to read, but we have democracy here, so voting decided it all. :)
+
+-- Cheers, Ana 
 
 ## June, 19, 2019
 
