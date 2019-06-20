@@ -12,6 +12,9 @@ is to work out a structured curriculum, not to gather all possible resources. Th
 That said: please leave this paragraph at the top of the file and feel free to work on the curriculum! :) 
 It's okay to replace the resource if you're confident your resource is better. 
 
+# General 
+[How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+
 # Linear Algebra 
 
 [Linear Algebra at KhanAcademy](https://www.khanacademy.org/math/linear-algebra)
