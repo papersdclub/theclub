@@ -18,11 +18,19 @@
 
 ## June, 22, 2019
 
+### Update 2
+
 The survey is over and we have a winner - [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf). In fact, it was a tie: Neural Turing Machine, word2vec and the winning paper all got almost equal number of votes. But since the challenge course is on privacy and federated learning is one of its topics, we decided that we should read this paper anyway if it gets enough voices. The new deadlines will be added tomorrow, but expect to have 2 weeks to complete the full cycle. 
 
 Update for Slack users of Secure and Private AI scholarship challenge: me, Marce and Dharmendra are now the moderators of #reading_paper_discuss channel! There are still more than two months ahead and I hope it will be a great journey!
 
 -- Cheers, Ana & Marce
+
+### Update 1
+
+Hey everyone! After running a survey we discovered that majority of people WOULD LOVE to have **live discussion**. And there are great news for them! This Sunday (as most of you selected Saturday and Sunday as preferred day) there will be live session to discuss the paper we’ve just completed (A Tutorial on PCA). **The session will be hosted by @shivu** who completed all the stages (read -> quiz -> implement). This is a great time to discuss the toughest parts as well as practical applications. This is NOT ama, it’s discussion. @shivu and @Marce will be moderating the discussion, but they are not teachers, so prepare for the discussion, not recitation! Also, **if there are other people who completed the full cycle (or at least reading and quiz), they can co-host the session if they wish** - please message one of us (me, @Marce, @shivu or @Dharmendra Choudhary). Happy learning!
+
+-- Cheers, Ana
 
 ## June, 21, 2019
 
