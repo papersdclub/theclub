@@ -9,12 +9,20 @@
 ~~**Soft Deadline (paper): 23:59, June, 17th, 2019 (all timezones)**~~   
 ~~**Soft Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 19th, 2019 (all timezones)**~~  
 ~~**Hard Deadline (paper): 23:59, June, 19th, 2019 (all timezones)**~~  
-**Hard Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 21st, 2019 (all timezones)**  
+**Hard Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 21st, 2019 (all timezones)**
 
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
 
 **[Post-paper survey](https://www.surveymonkey.com/r/P6RKHDD)** (to complete after reading the paper, completing the quiz): 
+
+## June, 22, 2019
+
+The survey is over and we have a winner - [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf). In fact, it was a tie: Neural Turing Machine, word2vec and the winning paper all got almost equal number of votes. But since the challenge course is on privacy and federated learning is one of its topics, we decided that we should read this paper anyway if it gets enough voices. The new deadlines will be added tomorrow, but expect to have 2 weeks to complete the full cycle. 
+
+Update for Slack users of Secure and Private AI scholarship challenge: me, Marce and Dharmendra are now the moderators of #reading_paper_discuss channel! There are still more than two months ahead and I hope it will be a great journey!
+
+-- Cheers, Ana & Marce
 
 ## June, 21, 2019
 
