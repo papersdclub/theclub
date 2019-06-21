@@ -15,6 +15,15 @@
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
 
 **[Post-paper survey](https://www.surveymonkey.com/r/P6RKHDD)** (to complete after reading the paper, completing the quiz): 
+
+## June, 21, 2019
+
+Marce is running a survey to select our next paper. Please take the [SURVEY](https://www.surveymonkey.com/r/YRZB6CP). We're also planning live discussion on Sunday that will be lead by one of the members. 
+
+If you're still reading the paper and planning to take the quiz - **don't panic!** I will not close the quiz. The deadline is for self-control to make sure we're pretty much on the same page. But I will like the quiz open, so that newcomers can take it with their own pace. 
+
+-- Cheers, Ana
+
 ## June, 20, 2019
 
 ### Update 2
