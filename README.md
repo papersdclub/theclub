@@ -9,7 +9,7 @@
 ~~**Soft Deadline (paper): 23:59, June, 17th, 2019 (all timezones)**~~   
 ~~**Soft Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 19th, 2019 (all timezones)**~~  
 ~~**Hard Deadline (paper): 23:59, June, 19th, 2019 (all timezones)**~~  
-**Hard Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 21st, 2019 (all timezones)**
+~~**Hard Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 21st, 2019 (all timezones)**~~
 
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
