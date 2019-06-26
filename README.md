@@ -6,15 +6,21 @@
 # Club News
 
 ## Pinned: 
-~~**Soft Deadline (paper): 23:59, June, 17th, 2019 (all timezones)**~~   
-~~**Soft Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 19th, 2019 (all timezones)**~~  
-~~**Hard Deadline (paper): 23:59, June, 19th, 2019 (all timezones)**~~  
-~~**Hard Deadline ([quiz](https://www.surveymonkey.com/r/RV3SDRC)): 23:59, June, 21st, 2019 (all timezones)**~~
+(quiz to be announced soon)
 
-**Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
-**Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**
+**Soft Deadline (paper): 23:59, July, 1st, 2019 (all timezones)**
 
-**[Post-paper survey](https://www.surveymonkey.com/r/P6RKHDD)** (to complete after reading the paper, completing the quiz): 
+**Hard Deadline (paper): 23:59, July, 4th, 2019 (all timezones)**
+
+**Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
+
+## June, 26, 2019
+
+Hello everyone! There were no news for the past few days, because I have been at the event. By the way, you should definitely check it out - it's called Talent Meets Bertelsmann. **Bertelsmann** now is really into data and is looking for talent in that field. They will also sponsor about 50,000 scholarships with Udacity in the next 3 years, so look out for them! And I personally would like to stress that this is really a great company - there are so many divisions, so many interesting projects going on and so many opportunities. So if you have a chance and you think you have the required skills - apply next year!
+
+On that note - I would like to announce the new deadlines. There is no quiz **YET**, so the deadlines are only for reading paper so far. Our current paper is quite short, so I expect that we complete it by the end of the week. Good luck!
+
+-- From Berline with Love, Ana
 
 ## June, 22, 2019
 
