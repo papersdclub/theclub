@@ -14,13 +14,19 @@
 
 **Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
 
+## June, 27, 2019
+
+Quick update for today. You all (scholars!) know about about the challenge "60 days of Udacity". The activities you perform in our club also count, so if you worked on reading paper, completing the quiz, writing implementaiton or summary, **DO** list it as a activity in your daily report for the challenge - it counts as participation. :) 
+
+-- Cheers, Ana
+
 ## June, 26, 2019
 
 Hello everyone! There were no news for the past few days, because I have been at the event. By the way, you should definitely check it out - it's called Talent Meets Bertelsmann. **Bertelsmann** now is really into data and is looking for talent in that field. They will also sponsor about 50,000 scholarships with Udacity in the next 3 years, so look out for them! And I personally would like to stress that this is really a great company - there are so many divisions, so many interesting projects going on and so many opportunities. So if you have a chance and you think you have the required skills - apply next year!
 
 On that note - I would like to announce the new deadlines. There is no quiz **YET**, so the deadlines are only for reading paper so far. Our current paper is quite short, so I expect that we complete it by the end of the week. Good luck!
 
--- From Berline with Love, Ana
+-- From Berlin with Love, Ana
 
 ## June, 22, 2019
 
