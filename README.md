@@ -14,6 +14,13 @@
 
 **Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
 
+
+## June, 28, 2019
+
+There are just a few days remaining until the soft deadline for the current paper and I think most of you have already completed it. It's not that long after all. So for something completely different I wanted to share with you one of my favourite mock papers - I hope you can appreciate the humor. :) It's from [SIGBOVIK](http://sigbovik.org) (if you don't know what it is, do google). The paper is **[Meta-meta-learning for Neural Architecture Search through arXiv Descent]**(https://www.bayeswatch.com/unofficial/meta-meta-learning.pdf). Do enjoy and let us proceed with arXiv descent... :)
+
+-- Cheers, Ana 
+
 ## June, 27, 2019
 
 Quick update for today. You all (scholars!) know about about the challenge "60 days of Udacity". The activities you perform in our club also count, so if you worked on reading paper, completing the quiz, writing implementaiton or summary, **DO** list it as a activity in your daily report for the challenge. 
