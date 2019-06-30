@@ -14,6 +14,17 @@
 
 **Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
 
+## June, 30, 2019
+
+### Update 2
+
+It's time to select the next paper! Looking at the list, I literally want to read that all, but the majority decides, so please [**VOTE**](https://www.surveymonkey.com/r/N8HLHBM)! :) 
+
+### Update 1
+
+Our second quiz will be published tomorrow - we're working on finalising it with Marce and Dharmendra. Don't worry - it will be an easy one this time. It will test only general understanding and will not go into too much detail. Specifically, don't worry about the calculation of epsilon and delta - there was discussion on Slack regarding this issue and maybe we'll post a summary later. But this requires studying another paper which in turn required studying another papers, so we **don't include the details of calculation of epsilon/delta or details of moments accountant** into the quiz. Good luck!
+
+-- Cheers, Ana
 
 ## June, 28, 2019
 
