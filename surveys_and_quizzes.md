@@ -9,3 +9,6 @@ https://www.surveymonkey.com/r/RPTKD9L
 
 Quiz 1 for the paper on PCA:
 https://www.surveymonkey.com/r/RV3SDRC
+
+Quiz 2 for the paper Differentially Private Federated Learning: A Client Level Perspective:
+https://www.surveymonkey.com/r/2ZN8NGC
