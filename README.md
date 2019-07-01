@@ -8,11 +8,21 @@
 ## Pinned: 
 (quiz to be announced soon)
 
-**Soft Deadline (paper): 23:59, July, 1st, 2019 (all timezones)**
+~**Soft Deadline (paper): 23:59, July, 1st, 2019 (all timezones)**~
 
 **Hard Deadline (paper): 23:59, July, 4th, 2019 (all timezones)**
 
+**Soft Deadline ([Quiz](https://www.surveymonkey.com/r/2ZN8NGC)): 23:59, July, 4th, 2019 (all timezones)**
+
+**Hard Deadline ([Quiz](https://www.surveymonkey.com/r/2ZN8NGC)): 23:59, July, 8th, 2019 (all timezones)**
+
 **Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
+
+## July, 1, 2019
+
+Aaaand, here goes [**THE QUIZ**](https://www.surveymonkey.com/r/2ZN8NGC). It should be much easier than the previous one. Do enjoy! And again - we don't track any personal scores, only aggregated rating, so use it to enhance your reading experience!
+
+-- Cheers, Ana
 
 ## June, 30, 2019
 
