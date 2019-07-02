@@ -18,6 +18,14 @@
 
 **Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
 
+## July, 2, 2019 
+
+### Update 2
+The next paper has been chosen and I'm pretty excitied about it. 35.14% of our respondents selected GANs. The second best choice was the paper on GNNs that gathered 16.22% of voices. There were total 37 votes, so I consider the selection phase complete and close the voting. The updates will follow soon!
+
+### Update 1
+**Live discussion** for the current paper (on differential privacy) will take place on Sunday on Slack (SPAIC Slack) at 5PM UTC. Don't forget to take the quiz if you haven't done so already. 
+
 ## July, 1, 2019
 
 Aaaand, here goes [**THE QUIZ**](https://www.surveymonkey.com/r/2ZN8NGC). It should be much easier than the previous one. Do enjoy! And again - we don't track any personal scores, only aggregated rating, so use it to enhance your reading experience!
