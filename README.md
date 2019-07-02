@@ -26,6 +26,8 @@ The next paper has been chosen and I'm pretty excitied about it. 35.14% of our r
 ### Update 1
 **Live discussion** for the current paper (on differential privacy) will take place on Sunday on Slack (SPAIC Slack) at 5PM UTC. Don't forget to take the quiz if you haven't done so already. 
 
+-- Cheers, Ana
+
 ## July, 1, 2019
 
 Aaaand, here goes [**THE QUIZ**](https://www.surveymonkey.com/r/2ZN8NGC). It should be much easier than the previous one. Do enjoy! And again - we don't track any personal scores, only aggregated rating, so use it to enhance your reading experience!
