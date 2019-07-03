@@ -6,7 +6,6 @@
 # Club News
 
 ## Pinned: 
-(quiz to be announced soon)
 
 ~**Soft Deadline (paper): 23:59, July, 1st, 2019 (all timezones)**~
 
@@ -18,10 +17,17 @@
 
 **Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
 
+## July, 3, 2019
+
+There was a lot of confusion today on Slack regarding current paper, discussions, etc. So I updated our calendar to reflect all the current deadlines. I will be updating it as we add new deadlines. If I don't do so, please ping me. :) Also, note that each event has a link (e.g. to a quiz or to a paper), so you don't have to look for it. Hope you like it. The link -
+[**CALENDAR**](https://calendar.google.com/calendar?cid=NTA4NmVkaDF0bW43bnIxaWc4ZjRucDJoOW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+-- Cheers, Ana
+
 ## July, 2, 2019 
 
 ### Update 2
-The next paper has been chosen and I'm pretty excitied about it. 35.14% of our respondents selected GANs. The second best choice was the paper on GNNs that gathered 16.22% of voices. There were total 37 votes, so I consider the selection phase complete and close the voting. The updates will follow soon!
+The next paper has been chosen and I'm pretty excitied about it. 35.14% of our respondents selected [GANs](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf). The second best choice was the paper on GNNs that gathered 16.22% of voices. There were total 37 votes, so I consider the selection phase complete and close the voting. The updates will follow soon!
 
 ### Update 1
 **Live discussion** for the current paper (on differential privacy) will take place on Sunday on Slack (SPAIC Slack) at 5PM UTC. Don't forget to take the quiz if you haven't done so already. 
