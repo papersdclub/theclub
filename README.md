@@ -9,9 +9,9 @@
 
 ~**Soft Deadline (paper): 23:59, July, 1st, 2019 (all timezones)**~
 
-**Hard Deadline (paper): 23:59, July, 4th, 2019 (all timezones)**
+~**Hard Deadline (paper): 23:59, July, 4th, 2019 (all timezones)**~
 
-**Soft Deadline ([Quiz](https://www.surveymonkey.com/r/2ZN8NGC)): 23:59, July, 4th, 2019 (all timezones)**
+~**Soft Deadline ([Quiz](https://www.surveymonkey.com/r/2ZN8NGC)): 23:59, July, 4th, 2019 (all timezones)**~
 
 **Hard Deadline ([Quiz](https://www.surveymonkey.com/r/2ZN8NGC)): 23:59, July, 8th, 2019 (all timezones)**
 
