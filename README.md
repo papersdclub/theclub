@@ -6,6 +6,9 @@
 # Club News
 
 ## Pinned: 
+### Next Paper
+[Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+### Current Paper: 
 
 ~**Soft Deadline (paper): 23:59, July, 1st, 2019 (all timezones)**~
 
