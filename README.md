@@ -20,6 +20,13 @@
 
 **Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
 
+## July, 5, 2019
+
+This is maybe the last post in this repository, because today I created a simple static website for the club (Github Pages + Jekyll), which simply looks nicer. It's not finished yet and there are a lot of small things to do, but you can [take a look at it already](https://papersdclub.github.io). :)
+And yes, today, I don't share any updates about the papers. I was a bit (a lot, tbh) demotivated by what's going on with the challenge course and in the end stopped caring at all. I didn't post 60 days challenge update and not going to do it tomorrow or the day after tomorrow. Sticking to the things I really enjoy. And taking part in a race of who can be online every single day and do whatever weird thing is required is not one of them. Soooo today I simply decided to relax and made a nicer page for us. I will still continue with the club, but for the sake of the club, not the challenge course. :)
+
+-- Cheers, Ana
+
 ## July, 3, 2019
 
 There was a lot of confusion today on Slack regarding current paper, discussions, etc. So I updated our calendar to reflect all the current deadlines. I will be updating it as we add new deadlines. If I don't do so, please ping me. :) Also, note that each event has a link (e.g. to a quiz or to a paper), so you don't have to look for it. Hope you like it. The link -
