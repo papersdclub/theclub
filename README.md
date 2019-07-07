@@ -20,6 +20,11 @@
 
 **Paper: [**Differentially Private Federated Learning: A Client Level Perspective**](https://arxiv.org/pdf/1712.07557.pdf)**
 
+## July, 7, 2019
+
+From now on the updates will be posted on our website only! Please keep that in mind! 
+[**LINK**](https://papersdclub.github.io)
+
 ## July, 5, 2019
 
 This is maybe the last post in this repository, because today I created a simple static website for the club (Github Pages + Jekyll), which simply looks nicer. It's not finished yet and there are a lot of small things to do, but you can [take a look at it already](https://papersdclub.github.io). :)
