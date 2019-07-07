@@ -6,6 +6,10 @@
 # Club News
 
 ## Pinned: 
+
+From now on the updates will be posted on our website only! Please keep that in mind! 
+[**LINK**](https://papersdclub.github.io)
+
 ### Next Paper
 [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 ### Current Paper: 
