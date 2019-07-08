@@ -2,7 +2,8 @@
 
 <h2>Important Articles</h2>
 
-- [How to read a reasearch paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+- [How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+- [How to Read a Research Paper video by Siraj Raval](https://www.youtube.com/watch?v=SHTOI0KtZnU)
 
 <h2> Sites and blogs</h2> 
 
